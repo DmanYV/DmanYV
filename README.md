@@ -22,9 +22,8 @@
   &#8287;
   <a href="https://vk.com/dmanyv"><img width="32px" alt="VK" title="Vk" src="images/social_networks/vk.png"/></a>
   &#8287;
-  <a href="mailto:dima-xxx@mail.ru"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_networks/gmail.png"/></a>
+  <a href="https://e.mail.ru/cgi-bin/sentmsg?To=dima-xxx@mail.ru&from=otvet"><img width="32px" alt="Write me Email" title="Mail.ru" src="images/social_networks/mail.png"/></a>
 </p>
-
 
 <!--
 **DmanYV/DmanYV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
