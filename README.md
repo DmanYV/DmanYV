@@ -62,6 +62,7 @@
   <code><img width="5%" title="YouTrack" src="images/logo_stacks/yt.png"></code>
   <code><img width="5%" title="Confluence" src="images/logo_stacks/confluence.png"></code>
   <code><img width="5%" title="Android Studio" src="images/logo_stacks/android_studio.png"></code>
+  <code><img width="5%" title="Postman" src="images/logo_stacks/burp.png"></code>
   <code><img width="5%" title="Postman" src="images/logo_stacks/postman.png"></code>
   <code><img width="5%" title="Telegram" src="images/logo_stacks/tg.png"></code>
   <code><img width="5%" title="Slack" src="images/logo_stacks/slack.png"></code>
