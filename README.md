@@ -28,7 +28,7 @@
 <a href="https://disk.yandex.ru/d/nKq-WIc1vc9zjA" rel="nofollow">Certificates and personal achievements<img width="32px" alt="Certificates and personal achievements" title="Certificates and personal achievements" src="images/social_networks/pngwing.com.png"/></a>
 </p>
 <p>
-<a href="https://youtu.be/vkLsx47lQ0g?si=WnZ0lZpWQSRZZ2bv" rel="nofollow">My interview for<img width="120px" alt="My interview for" title="My interview for" src="mages/social_networks/yt_logo_rgb_light.png"/></a> <a href="https://round.zone/" rel="nofollow">ROUND</a>
+<a href="https://youtu.be/vkLsx47lQ0g?si=WnZ0lZpWQSRZZ2bv" rel="nofollow">My interview for<img width="32px" alt="My interview for" title="My interview for" src="images/social_networks/yt_logo_rgb_light.png"/></a> <a href="https://round.zone/" rel="nofollow">ROUND</a>
 </p>
 
 <!--Git Stats-->
