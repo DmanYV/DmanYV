@@ -25,7 +25,10 @@
 </p>
 
 <p>
-<a href="https://disk.yandex.ru/d/nKq-WIc1vc9zjA" rel="nofollow">Certificates and personal achievements<img width="32px" alt="Certificates and personal achievements" title="Certificates and personal achievements" src="images/social_networks/pngwing.com.png"/></a>
+<img width="32px" alt="Certificates and personal achievements" title="Certificates and personal achievements" src="images/social_networks/pngwing.com.png"/>
+</p>
+<p>
+<a href="https://disk.yandex.ru/d/nKq-WIc1vc9zjA" rel="nofollow">Certificates and personal achievements</a>
 </p>
 <p>
 <img width="64px" alt="My interview for" title="My interview for" src="images/social_networks/yt_logo_rgb_light.png"/>
