@@ -28,7 +28,7 @@
 <a href="https://disk.yandex.ru/d/nKq-WIc1vc9zjA" rel="nofollow">Certificates and personal achievements<img width="32px" alt="Certificates and personal achievements" title="Certificates and personal achievements" src="images/social_networks/pngwing.com.png"/></a>
 </p>
 <p>
-<a href="https://disk.yandex.ru/d/nKq-WIc1vc9zjA" rel="nofollow">Certificates and personal achievements</a>
+<a href="https://www.youtube.com/watch?v=vkLsx47lQ0g&t" rel="nofollow">My interview for</a> <a href="https://round.zone/" rel="nofollow">ROUND</a>
 </p>
 
 <!--Git Stats-->
