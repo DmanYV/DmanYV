@@ -1,14 +1,3 @@
-<div align="center"> 
-  <h1>
-  Welcome to the QA Club buddy 👋 
-  </h1>
-</div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7WTL4qQCbbLLV2Pm/giphy.gif" width="200"/>
-</div>
-
-
 <!--About me-->
 ## :information_desk_person:About me
 
