@@ -81,7 +81,7 @@
 #### Additional Education:
 
 <table width="100%" border='0'>
-    <tr><td width="30%" valign="bottom"><img src="images/social_networks/Krotov.jpg"></td><td valign="middle">School of Test Manul Engineers <a target="_blank" href="https://vk.com/qakrotov">QA.Krotov</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="images/social_networks/Krotov.jpg"></td><td valign="middle">School of Test Manual Engineers <a target="_blank" href="https://vk.com/qakrotov">QA.Krotov</a>.</td></tr>
     <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">QA.Guru</a>.</td></tr>
    </tr>
   </table>
