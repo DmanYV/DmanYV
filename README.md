@@ -3,7 +3,7 @@
 
 - My name is Dmitry, I'm 28 years old.
 - I'm automation engineer from Kazan.
-- I working QA: <p><a href="https://newround.ru/" rel="nofollow">'Round'</a></p>
+- I working QA: <a href="https://newround.ru/" rel="nofollow">'Round'</a>
 - I write autotests in Python
 - Сontact with me:
 
